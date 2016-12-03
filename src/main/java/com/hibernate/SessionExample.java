@@ -11,7 +11,7 @@ import org.hibernate.service.ServiceRegistry;
 /**
  * Created by vedmant on 12/3/16.
  */
-public class Main {
+public class SessionExample {
 
     public static void main(String[] args) {
         StandardServiceRegistryBuilder registryBuilder = new StandardServiceRegistryBuilder();
